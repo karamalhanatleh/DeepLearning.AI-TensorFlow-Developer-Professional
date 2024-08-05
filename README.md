@@ -2,6 +2,6 @@
 DeepLearning.AI TensorFlow Developer Professional
 #DL
 
-#NN
+#ANN
 #Deep_Learning
 #Karam_Alhanatleh
